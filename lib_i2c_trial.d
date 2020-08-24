@@ -1,0 +1,14 @@
+.\lib_i2c_trial.o: Lib_i2c_trial.c
+.\lib_i2c_trial.o: Lib_i2c_trial.h
+.\lib_i2c_trial.o: C:\Keil4\ARM\ARMCC\bin\..\include\stdint.h
+.\lib_i2c_trial.o: C:\Keil4\ARM\ARMCC\bin\..\include\stdbool.h
+.\lib_i2c_trial.o: ..\inc/tm4c123gh6pm.h
+.\lib_i2c_trial.o: ..\inc/hw_i2c.h
+.\lib_i2c_trial.o: ..\inc/hw_memmap.h
+.\lib_i2c_trial.o: ..\inc/hw_types.h
+.\lib_i2c_trial.o: ..\inc/hw_gpio.h
+.\lib_i2c_trial.o: driverlib/i2c.h
+.\lib_i2c_trial.o: driverlib/sysctl.h
+.\lib_i2c_trial.o: driverlib/gpio.h
+.\lib_i2c_trial.o: driverlib/pin_map.h
+.\lib_i2c_trial.o: UART.h

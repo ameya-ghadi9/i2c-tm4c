@@ -1,0 +1,14 @@
+.\accelerometer.o: Accelerometer.c
+.\accelerometer.o: Accelerometer.h
+.\accelerometer.o: C:\Keil4\ARM\ARMCC\bin\..\include\stdint.h
+.\accelerometer.o: C:\Keil4\ARM\ARMCC\bin\..\include\stdbool.h
+.\accelerometer.o: Lib_i2c_trial.h
+.\accelerometer.o: ..\inc/tm4c123gh6pm.h
+.\accelerometer.o: ..\inc/hw_i2c.h
+.\accelerometer.o: ..\inc/hw_memmap.h
+.\accelerometer.o: ..\inc/hw_types.h
+.\accelerometer.o: ..\inc/hw_gpio.h
+.\accelerometer.o: driverlib/i2c.h
+.\accelerometer.o: driverlib/sysctl.h
+.\accelerometer.o: driverlib/gpio.h
+.\accelerometer.o: driverlib/pin_map.h

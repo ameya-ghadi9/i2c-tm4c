@@ -1,0 +1,17 @@
+.\main.o: main.c
+.\main.o: C:\Keil4\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil4\ARM\ARMCC\bin\..\include\stdbool.h
+.\main.o: driverlib/sysctl.h
+.\main.o: PLL.h
+.\main.o: SysTick.h
+.\main.o: ../inc/tm4c123gh6pm.h
+.\main.o: UART.h
+.\main.o: Lib_i2c_trial.h
+.\main.o: ..\inc/hw_i2c.h
+.\main.o: ..\inc/hw_memmap.h
+.\main.o: ..\inc/hw_types.h
+.\main.o: ..\inc/hw_gpio.h
+.\main.o: driverlib/i2c.h
+.\main.o: driverlib/gpio.h
+.\main.o: driverlib/pin_map.h
+.\main.o: Accelerometer.h
